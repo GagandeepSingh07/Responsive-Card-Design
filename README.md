@@ -1,2 +1,2 @@
 # Responsive-Card-Design
- Practice rin of making reponsive cards with HTML and CSS
+ Practice run of making reponsive cards with HTML and CSS
